@@ -1,0 +1,182 @@
+Array
+(
+    [sample_data] => some date MM//DD/YYYY
+    [date] => Some date
+    [number] => 12345
+    [line_items] => Array
+        (
+            [someGroupName] => Array
+                (
+                    [0] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [1] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123this is extra data below
+                        )
+
+                    [2] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [3] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [4] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [5] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [6] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [7] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [8] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [9] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [10] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [11] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [12] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [13] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [14] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [15] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [16] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [17] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [18] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [19] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [20] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [21] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [22] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                    [23] => Array
+                        (
+                            [field1] => abc
+                            [field2] => 123
+                            [field3] => abc123
+                        )
+
+                )
+
+        )
+
+)
